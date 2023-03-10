@@ -19,7 +19,7 @@
   <properties>
     <java.version>11</java.version>
     <spring-zeebe.version>8.1.17</spring-zeebe.version>
-    <zeebe.version>8.1.7</zeebe.version>
+    <zeebe.version>8.1.9</zeebe.version>
     <!-- connector SDK version -->
     <version.connector-core>0.6.0</version.connector-core>
     <!-- other dependencies -->
